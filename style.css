@@ -1,0 +1,28 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background:url('https://www.desktopbackground.org/download/1366x768/2014/01/14/701130_frozen-backgrounds-texture-wallpapers_1472x810_h.jpg')
+}
+.header_div { background:rgb(29, 74, 158);
+     color: #f5f106; } 
+     .header_div p{ font-family: 'Roboto', sans-serif;
+         color: rgb(164, 248, 8);
+          letter-spacing: 2px;
+           font-size: 12px; font-weight: bold;
+         } 
+         .main_div button{ font-family: 'Roboto', sans-serif;
+             margin-top: 30px;
+              width: 130px;
+               font-weight: bolder;
+                letter-spacing: 10px;
+             } 
+             .copy_right_footer
+              { position: fixed;
+                 color: #df1405; 
+                 bottom: 0;
+                  width: 100%;
+                   font-size: 18px;
+                    background-color: #f5f5f5;
+                     line-height: 3;
+     text-align: center;
+      text-shadow: 5px 5px 5px rgb(151, 149, 149); }
+      
